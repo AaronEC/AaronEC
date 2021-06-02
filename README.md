@@ -8,4 +8,4 @@
 Tony Papadopoullos Scholarship award recipient 2020-2022.</p>
 
 <h2>Contact</h2>
-<p>For any contact or enquiries please feel free to <a href="aaron_cardwell@hotmail.com">email</a> me.
+<p>For any contact or enquiries please feel free to <a href="mailto:aaron_cardwell@hotmail.com">email</a> me.
