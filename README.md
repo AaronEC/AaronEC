@@ -1,4 +1,4 @@
-[![Header](https://github.com/AaronEC/AaronEC/blob/main/images/banner.png?raw=true "Header")](https://temp.com/)
+<img src="https://github.com/AaronEC/AaronEC/blob/main/images/Banner.jpg?raw=true" alt="Banner">
 
 <h2>About</h2>
 <p>I am a graduate of the Computer Science (BSc) honours program at the University of the West of England in the United Kingdom with a First Class classification (4.0GPA equivalent). I have now moved to the USA and currently reside in San Diego, CA. I have full and permanent US work authorization (Green Card).</p>
