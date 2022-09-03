@@ -8,4 +8,4 @@
 Tony Papadopoullos Academic Scholarship award (provided by Apak Group board of trustees) recipient 2020-2022.</p>
 
 <h2>Contact</h2>
-<p>For any contact or enquiries please feel free to <a href="mailto:aaron_cardwell@hotmail.com">email</a> me.
+<p>For any contact or enquiries please feel free to <a href="mailto:aaron_cardwell@hotmail.com">email</a> me or take a look at my <a href="https://aaroncardwell.dev/">personal portfolio website</a> or my <a href="https://www.linkedin.com/in/aaronecardwell/">LinkedIn profile</a>. My current resume is also available <a href="https://drive.google.com/file/d/1s4-vNzAj0pUm-Me1nRIrlxc0wpPKEh0W/view?usp=sharing">here</a> if you would like to consider me for any current or future job opportunities, please feel free to get in touch with me.
