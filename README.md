@@ -1,7 +1,7 @@
 <img src="https://github.com/AaronEC/AaronEC/blob/main/images/Banner.jpg?raw=true" alt="Banner">
 
 <h2>About</h2>
-<p>I am a graduate of the Computer Science (BSc) program at the University of the West of England in the United Kingdom where I achieved a First Class classification with honours. I now live in the USA and am working full time for R&S Construction Management in San Francisco (Remote) as a Software Engineer.</p>
+<p>I am a graduate of the Computer Science (BSc) program at the University of the West of England in the United Kingdom where I achieved a First Class classification with honours. I now live in the USA and am working full time for R&S Construction Management in San Francisco as a Software Engineer.</p>
 
 <h2>Achievements</h2>
 <p>Dean's List Award recipient 2020, 2021, 2022. <br>
